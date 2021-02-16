@@ -1,3 +1,9 @@
+## App For Development 
+
+##### Team Memembers
+* Wade David Friedrichs 
+* Shiyi Wan
+* Ma Mingke
 #### Introduction 
 
-We are going to make an application that does some stuff and it will be very nice. 
+This is a javascript web application that will be develope and it will do. 
