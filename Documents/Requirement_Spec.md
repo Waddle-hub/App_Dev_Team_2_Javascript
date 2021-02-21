@@ -13,3 +13,8 @@ We are going to make an application that does some stuff and it will be very nic
 __Project name__
 
 The project name is : **node CMS**
+
+__Glossary__
+
+ * NodeJS:  an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+ * MongoDB :a source-available cross-platform document-oriented database program. Classified as a NoSQL database program
