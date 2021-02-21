@@ -10,3 +10,6 @@ Requirement specification
 7. Goal  
 8. Glossary
 We are going to make an application that does some stuff and it will be very nice. 
+__Project name__
+
+The project name is : **node CMS**
