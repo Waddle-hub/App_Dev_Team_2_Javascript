@@ -19,7 +19,8 @@ Build a small CMS ( content management system) from scratch using NodeJS, Expres
 the CMS can do a lot of stuff for the user :
 * add content to the blog which can be like articales,images.
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
-
+__Project outline__
+There should be one home page with four links(button) on header : about, login,register.After login ,it displaced username and a logout button and the admin button.Login and register link only appear to a new user or a non logged in user.When you go to admin page you can see all the post ,categories,comments and edit them.  
 __Glossary__
 
  * NodeJS:  an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
