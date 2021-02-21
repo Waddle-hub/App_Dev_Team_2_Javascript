@@ -13,6 +13,12 @@ We are going to make an application that does some stuff and it will be very nic
 __Project name__
 
 The project name is : **node CMS**
+__Purpose__
+
+Build a small CMS ( content management system) from scratch using NodeJS, Express and MongoDB that can complete the functions of personal CMS users logging in,register, publishing, browsing, modifying articles and messages, comments,control comments and even personalizing the layout of sites.
+the CMS can do a lot of stuff for the user :
+* add content to the blog which can be like articales,images.
+* users will have a platform in which they can put thier own stuff and change it whenever they want to.
 
 __Glossary__
 
