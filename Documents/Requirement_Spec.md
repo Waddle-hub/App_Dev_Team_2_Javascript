@@ -35,7 +35,9 @@ __Intended Audience__
 The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation 
 
 __User Needs__
-
+User needs to be able to regsiter
+User needs to be able to login to enter admin page where he or she can edit post,delete post ,create category,etc.
+User needs to be able to hide the inappropriate comments,or the comments he or she doesn't like
 __Project outline__
 
 This will be a single page website written in javascript and nodejs, using a mongo db database to show a wide range of skills we have not used to date. A user may view posts unlogged, but to comment and edit their own posts they must log in. As users log in they have the ability to create and edit their own posts with a special bar appearing in the navigation allowing them to access admin abilities where they will be able to edit all posts, remove comments, edit text of all posts. 
