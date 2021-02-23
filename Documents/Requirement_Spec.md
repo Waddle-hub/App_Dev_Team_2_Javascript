@@ -9,6 +9,7 @@ Requirement specification
 6. Current situation 
 7. Goal  
 8. Glossary
+
 We are going to make an application that does some stuff and it will be very nice. 
 __Project name__
 
@@ -19,8 +20,18 @@ Build a small CMS ( content management system) from scratch using NodeJS, Expres
 the CMS can do a lot of stuff for the user :
 * add content to the blog which can be like articales,images.
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
+
+__Intended Audience__
+
+__User Needs__
+
 __Project outline__
 There should be one home page with four links(button) on header : about, login,register.After login ,it displaced username and a logout button and the admin button.Login and register link only appear to a new user or a non logged in user.When you go to admin page you can see all the post ,categories,comments and edit them.  
+
+__Current Situation__
+
+__Goal__
+
 __Glossary__
 
  * NodeJS:  an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
