@@ -1,4 +1,4 @@
-Requirement specification
+# Requirement specification
 ========
 ## Introduction
 1. Project name
@@ -10,27 +10,43 @@ Requirement specification
 7. Goal  
 8. Glossary
 
-We are going to make an application that does some stuff and it will be very nice. 
+This is going to be a website that allows its users to post content such as images and allowing comments on the posts of users. The website will focus more on the admin capabilities we can implement, such as editing many posts, reviewing comments and posts which could be harmful to the community etc. This is a test our abilities as programmers and allowing us to see how well we can manipulate the data on our site. we want to be able to manage all the posts on the website is an effective way, showing we have a clear understanding of the new technologies we are using. 
+
 __Project name__
 
-The project name is : **node CMS**
+The project name is : **Manage Me**
+
 __Purpose__
 
-Build a small CMS ( content management system) from scratch using NodeJS, Express and MongoDB that can complete the functions of personal CMS users logging in,register, publishing, browsing, modifying articles and messages, comments,control comments and even personalizing the layout of sites.
-the CMS can do a lot of stuff for the user :
-* add content to the blog which can be like articales,images.
+Build a CMS ( content management system) from scratch using NodeJS, Express and MongoDB that can complete the functions of personal CMS users logging in,register, publishing, browsing, modifying articles and messages, comments,control comments and even personalizing the layout of sites.
+the CMS can do a lot of stuff for the user. The purpose is to test our learning and developement skills, using technologies we are not familiar with showing that we as programmers understand the basic structure of code. if we can execute this project effectively we would show that we know how to code regardless of the language we are using. this can boost our confidence and make us better programmers. The project should display a good amount of technical skill which is why we are using a CMS, so we can manage many different types of content from images to text etc. 
+
+* add content to the blog which can be like articles,images.
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
+* Teach us new skills
+* Educate us on team building and time keeping 
+* New technologies to show our ability to adapt and learn new languages
+* users may edit their own posts
+* Admins can edit all posts 
+
 
 __Intended Audience__
+
+The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation 
 
 __User Needs__
 
 __Project outline__
-There should be one home page with four links(button) on header : about, login,register.After login ,it displaced username and a logout button and the admin button.Login and register link only appear to a new user or a non logged in user.When you go to admin page you can see all the post ,categories,comments and edit them.  
+
+This will be a single page website written in javascript and nodejs, using a mongo db database to show a wide range of skills we have not used to date. A user may view posts unlogged, but to comment and edit their own posts they must log in. As users log in they have the ability to create and edit their own posts with a special bar appearing in the navigation allowing them to access admin abilities where they will be able to edit all posts, remove comments, edit text of all posts. 
 
 __Current Situation__
 
+We need to find new skills and show our understanding, this a perfect time to build a portfolio of well developed applications that show our ability to not only work in a team but develope effectively and adapt the changing requirements the business world will often throw upon us.
+
 __Goal__
+
+One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better, we need to adapt with the times and show our abilities to do so.
 
 __Glossary__
 
