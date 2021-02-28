@@ -36,6 +36,8 @@ The intended audience is prospective employers, we can demonstrate our understan
 
 __User Needs__
 
+Every user will create a personal private acoount on our web page. They will have login and password. They will be able to publish posts, stories, photos, like posts and comment. They  can change, edit their posts after they published or delete the posts, which they published.
+
 __Project outline__
 
 This will be a single page website written in javascript and nodejs, using a mongo db database to show a wide range of skills we have not used to date. A user may view posts unlogged, but to comment and edit their own posts they must log in. As users log in they have the ability to create and edit their own posts with a special bar appearing in the navigation allowing them to access admin abilities where they will be able to edit all posts, remove comments, edit text of all posts. 
