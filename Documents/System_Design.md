@@ -32,6 +32,12 @@ Describe the intent, application objectives, scope of action, and other backgrou
 
 ## Context
 Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the fucntionality in the second month. any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels, for us whatis important is to get the functionality out.
+## Design
+Page planning:
+
+Front-end presentation: home page, detail page, category, register, login, about,comment
+
+Background management: Template page
 
 ## Fuctionality
  1. Web browsing;
