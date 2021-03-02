@@ -2,7 +2,7 @@
 #### Contributers
 * Yamen Saad
 * Shiyi Wan 
-
+* Wade David Friedrichs
 
 
 __1. Overview__
@@ -29,18 +29,21 @@ __5. UI Plan__
 __6. Constraints__
 
  * The development environment:webstorm
- (1). Data accuracy 
+  __1. Data accuracy__ 
  * Enter in a strict data format, otherwise the system does not respond to processing.
  *  When querying to ensure full rate, all the corresponding fields containing query keyword records should be able to find. Because there are usually many records of files, the system uses two methods of query: direct query and fuzzy query. 
- (2). Flexibility 
+ __2. Flexibility__ 
  The design module of the system belongs to normal mode, when to add new functions, the interface is compatible and can be updated at any time
  Design Constraints imposes limitations on the following things:
 
-The running environment : Jet Brains Webstorm.
-The operating system : Microsoft Windows 10.
-the programming language(Javascript, Nodejs), databases(Mongo DB);
-coding standards;
-business logic, etc. The application should have methods and function that can do all the operations needed like deleting or adding posts, updating...etc also,it should have generic classes and methods.
+* The running environment : Jet Brains Webstorm.
+* The operating system : Microsoft Windows 10.
+* the programming language(Javascript, Nodejs), databases(Mongo DB).
+* coding standards. (Proper Indentation, etc)
+* business logic, etc. 
+
+
+The application should have methods and function that can do all the operations needed like deleting or adding posts, updating...etc also,it should have generic classes and methods.
 As per said in the requirement specification, the software must oblige the new requlations in the EU, namely GDPR. This means whatever data we collect from the user, must be treated with the upmost care. Also the user MUST explicitly accept the collection and use of his/her data.
 
 As stated in the requirement specification, copyright content can be used for educational purposes. Although it varies country-by-country, if the original author/source must be stated or not. This would mean a great constraint on the system in case of commercialising the software. In case of free educational software, the differences between the countries does no concern us, we will only have to oblige to the laws in the country, where our organization is stated, and where the original source of the server side of the software is. Even if CDN is used, the original source is the one we have to oblige.
