@@ -26,12 +26,25 @@ A blog is a website that uses specific software to publish, publish, and post pe
 ## Overview
 The team is developing a blog application in php, we want all CRUD functionality on posts, be able to register new accounts to create posts, and be able to log out of those accounts. our database is managed with phpmyadmin and is being hosted on a local server per machine for the sake of testing our application and making sure it works.
 
-## purpose
- Describe the intent, application objectives, scope of action, and other background materials that should be explained to the reader about the software development. Explain the relationship between the developed software and other relevant software. This is explained if the software product is a stand-alone software and the entire contents are self-contained. If the defined product is an integral part of a larger system, the relationship between the product and the other components of the system should be described, the composition of the system and the links and interfaces between the product and the other components
+## Purpose
+Describe the intent, application objectives, scope of action, and other background materials that should be explained to the reader about the software development. Explain the relationship between the developed software and other relevant software. This is explained if the software product is a stand-alone software and the entire contents are self-contained. If the defined product is an integral part of a larger system, the relationship between the product and the other components of the system should be described, the composition of the system and the links and interfaces between the product and the other components
 
 
 ## Context
 Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the fucntionality in the second month. any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels, for us whatis important is to get the functionality out.
+
+## Fuctionality
+ 1. Web browsing;
+
+ 2. The station owner logs in and logs out;
+
+ 3. Article management, publication, modification, comment, message, search, multimedia management (add, delete, modify), upload;
+
+ 4. Stationmaster management, add contributors, administrators;
+
+ 5. plug-in management, add, delete, set features, etc.
+
+ 6. Appearance management, title bar, archive classification, calendar, banner, message and other appearance addition, deletion, settings, etc
 
 
 ## Goals and Non-Goals
