@@ -12,7 +12,7 @@ A blog is a website that uses specific software to publish, publish, and post pe
 
 3. Team Memmbers: 
  3.1. Friedrichs Wade David
- 3.2. Silabela Mxolisi
+ 3.2. Ma Mingke
  3.3. Yamen Saad Aldeen
  3.4. Wan Shiyi
  3.5. Yuldashov Rasul
