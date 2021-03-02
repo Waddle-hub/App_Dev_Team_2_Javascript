@@ -32,11 +32,22 @@ the CMS can do a lot of stuff for the user. The purpose is to test our learning 
 
 __Intended Audience__
 
-The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation 
+The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation.
 
 __User Needs__
 
+<<<<<<< HEAD
 Every user will create a personal private acoount on our web page. They will have login and password. They will be able to publish posts, stories, photos, like posts and comment. They  can change, edit their posts after they published or delete the posts, which they published.
+=======
+* Users need to be able to regsiter
+* Users need to be able to login.
+* Users need to be able to enter admin page where he or she can edit many posts ,delete posts ,create categories
+* Users need to be able to create posts.
+* Users need to be able to view their profile with their posts.
+* Users need to be able to add comments to posts.
+* Users need to be able to change their own comments.
+* Users need to be able to hide the inappropriate comments,or the comments he or she doesn't like
+>>>>>>> master
 
 __Project outline__
 
@@ -44,11 +55,13 @@ This will be a single page website written in javascript and nodejs, using a mon
 
 __Current Situation__
 
+A blog is a website that uses specific software to post personal articles on the Web, or that is usually managed by individuals and posts new articles from time to time.Blog is after MSN, BBS, ICQ, the emergence of the fourth way of network communication, has been welcomed by everyone, is the network era of personal "reader's digest", is a hyperlink as the entrance to the network diary, it represents a new way of life, work and learning. Many blogs focus on providing comments or news on specific topics, while others are used as personal diaries. A typical blog combines text, images, links to other blogs or websites, and other topic-related media to allow readers to leave an interactive message, which is an important element of many blogs. With this in mind we should be developing a blog that adheres to trends and is innovative in its admin capabilities to make sure that the content of the blog is aligned with the admins view of themselves and the community they wish to create, this is a crucial factor in this application. We need to be catering to the needs of the admin and make sure they can edit they're content with ease so that they can moderate all of the potential content on their personalised blog. We find a massive need for this type of software. 
 We need to find new skills and show our understanding, this a perfect time to build a portfolio of well developed applications that show our ability to not only work in a team but develope effectively and adapt the changing requirements the business world will often throw upon us.
+
 
 __Goal__
 
-One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better, we need to adapt with the times and show our abilities to do so.
+One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better, we need to adapt with the times and show our abilities to do so. The goal of the application is to effectively edit and manipulate data given to us by users in a user friendly way. A user shouldnt have to figure out how to change the data there. it is important that we make a UI that can be undertsood and used easily by anyone, not just the developers who made it. This is an extra constraint we add on ourselves so we can truly see if we can make applications at a professional level. We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 __Glossary__
 
