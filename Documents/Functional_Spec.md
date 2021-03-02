@@ -27,11 +27,9 @@ __5. UI Plan__
    Admin button will appear on the header which can lead to the admin page, there user can see the dashboard, posts, categories,comments buttons which can help user to manage posts and comments.Logout button will also appear to the header after login.
 
 __6. Constraints__
-
- * The development environment:webstorm
   __1. Data accuracy__ 
  * Enter in a strict data format, otherwise the system does not respond to processing.
- *  When querying to ensure full rate, all the corresponding fields containing query keyword records should be able to find. Because there are usually many records of files, the system uses two methods of query: direct query and fuzzy query. 
+ *  When querying to ensure full rate, all the corresponding fields containing query keyword records should be able to find. Because there are usually many records of files, the system uses two methods of query: direct query and fuzzy query. \
  __2. Flexibility__ 
  The design module of the system belongs to normal mode, when to add new functions, the interface is compatible and can be updated at any time
  Design Constraints imposes limitations on the following things:
