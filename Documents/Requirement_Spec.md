@@ -36,9 +36,7 @@ The intended audience is prospective employers, we can demonstrate our understan
 
 __User Needs__
 
-<<<<<<< HEAD
-Every user will create a personal private acoount on our web page. They will have login and password. They will be able to publish posts, stories, photos, like posts and comment. They  can change, edit their posts after they published or delete the posts, which they published.
-=======
+* Every user will create a personal private acoount on our web page. They will have login and password. They will be able to publish posts, stories, photos, like posts and comment. They  can change, edit their posts after they published or delete the posts, which they published.
 * Users need to be able to regsiter
 * Users need to be able to login.
 * Users need to be able to enter admin page where he or she can edit many posts ,delete posts ,create categories
@@ -47,7 +45,6 @@ Every user will create a personal private acoount on our web page. They will hav
 * Users need to be able to add comments to posts.
 * Users need to be able to change their own comments.
 * Users need to be able to hide the inappropriate comments,or the comments he or she doesn't like
->>>>>>> master
 
 __Project outline__
 
