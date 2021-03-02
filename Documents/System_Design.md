@@ -2,7 +2,7 @@ System design
 ========
 
 ## Introduction
-With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and thereaders.
+A blog is a website that uses specific software to publish, publish, and post personal articles on the Web, or that is usually managed by individuals and posts new articles from time to time. Posts on blogs usually appear as web pages and are arranged in reverse order depending on when they were posted.Now popular with everyone, it is a personal "reader's digest" in the internet age, a web diary with hyperlinks as the entrance, which represents a new way of life, work and learning. Many blogs focus on providing comments or news on specific topics, while others are used as personal diaries. A typical blog combines text, images, links to other blogs or websites, and other topic-related media to allow readers to leave comments in an interactive way, which is an important element of many blogs
 
 ## Project plan
 
