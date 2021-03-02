@@ -36,6 +36,7 @@ Everyone at this time has the required knowledge to make this project work, we w
  - Get a working index page 
  - Get a working Regsiter page 
  - Get a working login page
+ - Get a working admin page
  - Implement the html and css for all these pages 
  - Get the Create functionality for user posts working fully
  - Get the Update functionality for user posts working fully
