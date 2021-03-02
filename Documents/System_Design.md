@@ -154,3 +154,7 @@ https://www.its.dot.gov/research_archives/msaa/pdf/MSAA_SystemDesignFINAL.pdf Sy
 https://www.cs.fsu.edu/~lacher/courses/COP3331/sdd.html as an example of how a system design document is written
 
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
+
+## Summary
+ For the success of this system we will rely mostly on peer programming to minimise the errors that programmers may have. This blog site is intended for end users, users no longer need training, follow the tips of the blog page to complete the relevant services and functions. The software requires a user-friendly interface and simple use. It also has a certain level of security and maintainability
+ .Our main focus will be on creating a user-friendly system that does not discriminate against gender, race, age, ethnic group and so on so our design will be highly maintained by allowing users to send emails should they wish to make comments or complaints about the design.
