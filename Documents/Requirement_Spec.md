@@ -32,9 +32,10 @@ the CMS can do a lot of stuff for the user. The purpose is to test our learning 
 
 __Intended Audience__
 
-The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation 
+The intended audience is prospective employers, we can demonstrate our understanding and ability to change and learn new skills easily, showing how well we can manipulate data given to us in a system such as this or any other situation.
 
 __User Needs__
+
 * Users need to be able to regsiter
 * Users need to be able to login.
 * Users need to be able to enter admin page where he or she can edit many posts ,delete posts ,create categories
@@ -55,7 +56,7 @@ We need to find new skills and show our understanding, this a perfect time to bu
 
 __Goal__
 
-One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better, we need to adapt with the times and show our abilities to do so.
+One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team. But our main goal is to learn new technologies and show our ability to change at a moments notice giving us the import skills we need to work in this voltaile world where technology is constantly changing and getting better, we need to adapt with the times and show our abilities to do so. The goal of the application is to effectively edit and manipulate data given to us by users in a user friendly way. A user shouldnt have to figure out how to change the data there. it is important that we make a UI that can be undertsood and used easily by anyone, not just the developers who made it. This is an extra constraint we add on ourselves so we can truly see if we can make applications at a professional level. We want to make sure this application isnt all about the manipulation but also the user experience. If a user enjoys our design and is able to use the website with ease that can be considered a success. We as a team need to work together to make sure that our application can not only show off our skills in data manipulation and be a easy and enjoyable user experience, but also show how we can work as a team and these are the goals for our application.
 
 __Glossary__
 
