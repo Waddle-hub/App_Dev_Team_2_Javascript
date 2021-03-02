@@ -14,6 +14,27 @@ We have agreed to develop a blog application,the application will let the user t
 The interface will be a complicated one, a login screen with some illustrtions photos and audio, dashboard full  of graphical effects, that will have buttons such as; add item, remove item, produce slip, etc. database may be used since this is big group project, everything will be hardcoded into the project. With this best design we aim to provide an easy interface that doesnt require much training leaving less stress on the owners to train new employees.  
  
 The interface will be complecated,very good styled register and login and home page that will have some buttons, photos, videos, audios, gif files and labels for like posting or deleting a post/picture or whatever the user can do.database as well to store the user information,with this project we will provide a perfet design no matter how much training does it need,as long as it easy for the user to use. 
+
+
+   * The interface will be a not so complicated one, we will have a home page with four links(button):'Home'where we can see some posts and comments,'about' with some content inside ,'login' which leads to login page ,'register' leads to the register page.
+
+   * The interface will be very simple,nice styled register that will have some buttons and labels for like first&last name ,email,password,confirm password filed and forget password.
+
+   * login page that user need to enter email address and password with some nice styled buttons.
+
+   * Admin button will appear on the header which can lead to the admin page, there user can see the dashboard, posts, categories,comments buttons which can help user to manage posts and comments.Logout button will also appear to the header after login.
+
+   * A visitor can become a blog user by registering.After loging in using a user id as well as password then the system gives blog user the appropriate permissions to operate on the blog site.
+
+   * User exit: blog users who have logged in can exit and release their own information resources.
+
+   * Blog users can publish their own articles, including topics, text, expressions, pictures and other information, the author through various    elements to show their ideas. The system receives the information and stores it in the database on the server side.
+
+   * Blog users can delete their own published articles and information, and the system will automatically delete these records in the server-side database.
+
+   * In addition to querying, browsing and commenting articles, the system administrator of blog can also modify and delete all articles and comments in the system. These maintenance and management have the highest authority, and the system automatically updates the data in the server-side database -Blog administrators can add and delete new blog users. He can also add, delete and set the appearance of the blog home page, plug-ins and tools used by the blog.
+
+   * A User profile where a user may see all of his posts and the comments attached to that post.
  
 ## Use Cases 
  
