@@ -39,6 +39,8 @@ Front-end presentation: home page, detail page, category, register, login, about
 
 Background management: Template page
 
+
+
 ## Fuctionality
  1. Web browsing;
 
@@ -143,3 +145,12 @@ This section is mostly going to be read only by the engineers working on this pr
 Essentially, this is the breakdown of how and when you plan on executing each part of the project. There's a lot that goes into scoping accurately, so you can read this post to learn more about scoping.
 
 I tend to also treat this section of the design doc as an ongoing project task tracker, so I update this whenever my scoping estimate changes. But that's more of a personal preference.
+
+## Reference Material
+Throughout the process of system design we used amny reasources and references to make a very encompassing and successful system design document. we used :
+
+https://www.its.dot.gov/research_archives/msaa/pdf/MSAA_SystemDesignFINAL.pdf System design template
+
+https://www.cs.fsu.edu/~lacher/courses/COP3331/sdd.html as an example of how a system design document is written
+
+https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
