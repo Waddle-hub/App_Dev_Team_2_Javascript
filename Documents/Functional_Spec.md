@@ -12,7 +12,17 @@
    At first-time user of of this website should see the log-in page when he/she open the **Manage Me** website if the user has not registered before , he/she should be able to singup and create new account. Every user should have a profile page where they can add profile photo and create there comments with the many choices of (edit, delete ,and like or dislike).also logout button .
 
 5. UI Plan
-The interface will be a not so complicated one, we will have a home page with four links(button):'Home'where we can see some posts and comments,'about' with some content inside ,'login' which leads to login page ,'register' leads to the register page.
+   The interface will be a not so complicated one, we will have a home page with four links(button):'Home'where we can see some posts and comments,'about' with some content inside ,'login' which leads to login page ,'register' leads to the register page.
 
-The interface will be very simple,nice styled register that will have some buttons and labels for like first&last name ,email,password,confirm password filed and forget password .login page that user need to enter email address and password with some nice styled buttons.
-Admin button will appear on the header which can lead to the admin page, there user can see the dashboard, posts, categories,comments buttons which can help user to manage posts and comments.Logout button will also appear to the header after login.
+   The interface will be very simple,nice styled register that will have some buttons and labels for like first&last name ,email,password,confirm password filed and forget password .login page that user need to enter email address and password with some nice styled buttons.
+   Admin button will appear on the header which can lead to the admin page, there user can see the dashboard, posts, categories,comments buttons which can help user to manage posts and comments.Logout button will also appear to the header after login.
+
+6. Constrains
+ * The operating system : Microsoft Windows 10.
+ * The database :mongo db
+ * The development environment:webstorm
+ (1). Data accuracy 
+ 1. Enter in a strict data format, otherwise the system does not respond to processing.
+ 2. When querying to ensure full rate, all the corresponding fields containing query keyword records should be able to find. Because there are usually many records of files, the system uses two methods of query: direct query and fuzzy query. 
+ (2). Flexibility 
+ The design module of the system belongs to normal mode, when to add new functions, the interface is compatible and can be updated at any time
