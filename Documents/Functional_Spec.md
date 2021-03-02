@@ -69,18 +69,29 @@ In order to meet the user's efficient requirements, the response time of the dat
 - In addition to querying, browsing and commenting articles, the system administrator of blog can also modify and delete all articles and comments in the system. These maintenance and management have the highest authority, and the system automatically updates the data in the server-side database 
 - Blog administrators can add and delete new  blog users. He can also add, delete and set the appearance of the blog home page, plug-ins and tools used by the blog 
  
-## Constrains__ : 
+__6. Constraints__ 
+
+\
+  __6.1) Data accuracy__ 
+ * Enter in a strict data format, otherwise the system does not respond to processing.
+ *  When querying to ensure full rate, all the corresponding fields containing query keyword records should be able to find. Because there are usually many records of files, the system uses two methods of query: direct query and fuzzy query. 
+
+ \
  
-Design Constraints imposes limitations on the following things: 
-* The running environment : Microsoft Visual Studio & JavasScript. 
-* The operating system : Microsoft Windows 10. 
-* the programming language, databases; 
-* coding standards; 
+ __6.2) Flexibility__ 
+ The design module of the system belongs to normal mode, when to add new functions, the interface is compatible and can be updated at any time
+ Design Constraints imposes limitations on the following things:
+
+* The running environment : Jet Brains Webstorm.
+* The operating system : Microsoft Windows 10.
+* the programming language(Javascript, Nodejs), databases(Mongo DB).
+* coding standards. (Proper Indentation, etc)
 * business logic, etc. 
-The application should have methods and function that can do all the operations needed like deleting or adding posts, updating...etc also,it should have generic classes and methods. 
- 
-As per said in the requirement specification, the software must oblige the new requlations in the EU, namely GDPR. This means whatever data we collect from the user, must be treated with the upmost care. Also the user MUST explicitly accept the collection and use of his/her data. 
- 
-As stated in the requirement specification, copyright content can be used for educational purposes. Although it varies country-by-country, if the original author/source must be stated or not. This would mean a great constraint on the system in case of commercialising the software. In case of free educational software, the differences between the countries does no concern us, we will only have to oblige to the laws in the country, where our organization is stated, and where the original source of the server side of the software is. Even if CDN is used, the original source is the one we have to oblige. 
- 
-As per said in the requirement specification, whenever communications happen between the client and server side, the data should be sent in a json format. It is one of the most popular standards nowadays. If the communication happens on http/https protocol, it is also a good idea to use normalized url-s with it, similarly to a RESTful API. 
+
+
+The application should have methods and function that can do all the operations needed like deleting or adding posts, updating...etc also,it should have generic classes and methods.
+As per said in the requirement specification, the software must oblige the new requlations in the EU, namely GDPR. This means whatever data we collect from the user, must be treated with the upmost care. Also the user MUST explicitly accept the collection and use of his/her data.
+
+As stated in the requirement specification, copyright content can be used for educational purposes. Although it varies country-by-country, if the original author/source must be stated or not. This would mean a great constraint on the system in case of commercialising the software. In case of free educational software, the differences between the countries does no concern us, we will only have to oblige to the laws in the country, where our organization is stated, and where the original source of the server side of the software is. Even if CDN is used, the original source is the one we have to oblige.
+
+As per said in the requirement specification, whenever communications happen between the client and server side, the data should be sent in a json format. It is one of the most popular standards nowadays. If the communication happens on http/https protocol, it is also a good idea to use normalized url-s with it, similarly to a RESTful API.
