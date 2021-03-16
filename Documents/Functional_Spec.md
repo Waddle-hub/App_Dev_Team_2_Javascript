@@ -1,9 +1,9 @@
 # Functional Specification 
 We, as a team setting up our environment to startup our group project with the following developing members: 
 1. Friedrichs Wade David 
-2. Silabela Mxolisi 
-3. Yamen Saad Alden
-4. Wan Shiyi 
+2. Yamen Saad Alden
+3. Wan Shiyi 
+4. Ma Mingke
 5. Yuldashov Rasul 
 
 __1. Overview__
