@@ -1,5 +1,5 @@
-const express= require(id: 'express');
-const mongoose= require(id: 'mongoose');
+const express= require(  'express');
+const mongoose= require(  'mongoose');
 
 const app= express();
 
