@@ -109,5 +109,57 @@ module.exports = {
                 res.redirect('/admin/posts');
             });
     },
+    getCategories: (req, res) => {
+
+        Category.find().then(cats => {
+            res.render('admin/category/index', {categories: cats});
+        });
+    },
+
+    createCategories: (req, res) => {
+        var categoryName = req.body.name;
+
+        if (categoryName) {
+            const newCategory = new Category({
+                title: categoryName
+            });
+
+            newCategory.save().then(category => {
+                res.status(200).json(category);
+            });
+        }
+
+    },
+
+    editCategoriesGetRoute: async (req, res) => {
+        const catId = req.params.id;
+
+        const cats = await Category.find();
+
+
+        Category.findById(catId).then(cat => {
+
+            res.render('admin/category/edit', {category: cat, categories: cats});
+
+        });
+    },
+
+
+    editCategoriesPostRoute: (req, res) => {
+        const catId = req.params.id;
+        const newTitle = req.body.name;
+
+        if (newTitle) {
+            Category.findById(catId).then(category => {
+
+                category.title = newTitle;
+
+                category.save().then(updated => {
+                    res.status(200).json({url: '/admin/category'});
+                });
+
+            });
+        }
+    }
 
 };
