@@ -33,3 +33,17 @@ router.route('/posts/edit/:id')
 router.route('/posts/delete/:id')
     .delete(adminController.deletePost);
 
+router.route('/category')
+    .get(adminController.getCategories);
+
+
+router.route('/category/create')
+    .post(adminController.createCategories);
+
+
+router.route('/category/edit/:id')
+    .get(adminController.editCategoriesGetRoute)
+    .post(adminController.editCategoriesPostRoute);
+
+
+module.exports = router;
