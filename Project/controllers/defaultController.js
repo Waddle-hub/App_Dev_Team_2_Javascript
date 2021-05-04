@@ -1,4 +1,3 @@
-
 const Post = require('../models/PostModel').Post;
 const Category = require('../models/CategoryModel').Category;
 
